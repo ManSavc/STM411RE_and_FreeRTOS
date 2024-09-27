@@ -6,7 +6,8 @@ then PC1 -> for 'myTask02' which have priority 'Normal', and PC0 for 'myTask03' 
 and set differnt time of 'osDelay'(I use it, because it allows sheduler to run when other tasks are doing
 when we are waiting) and we see in the video below, that diferent task are doing in the same time.
 
-https://github.com/user-attachments/assets/e35c1d8c-3ba2-45f6-8a27-da72c1108a61
+https://github.com/user-attachments/assets/f457d0fa-f7b7-4d48-96af-7c6f5cfe0ba2
+
 Photos below show steps:
 ![freertos_photo_1](https://github.com/user-attachments/assets/1de6961e-cfb5-42fb-a792-8fed7ea64b30)
 ![freertos_photo_2](https://github.com/user-attachments/assets/7caa7bbf-23de-46f0-8535-76ae99947156)
