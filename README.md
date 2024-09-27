@@ -17,4 +17,5 @@ Then we select timer which are asking and enebling "USE_NEWLIB_REENTRANT".
 ![freertos_photo_5](https://github.com/user-attachments/assets/8a714c95-1e66-4eb8-a041-398d51312078)
 And dot forget GPIO:
 ![freertos_photo_6](https://github.com/user-attachments/assets/0582a61d-bada-4a57-aece-6b6b9cd8c6fe)
+So, when we do everything, we see that all tasks 'LED' are blink at the same time. 
 Thats all.
